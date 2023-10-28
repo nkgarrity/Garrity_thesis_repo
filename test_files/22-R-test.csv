@@ -1,0 +1,289 @@
+﻿Year,Location,Type,Field,Name,Label,Entry,NC_Cross,NC_Accession,Identity or Parentage,Pedigree,OAG,Seed Source,Plot,Stand,Yield,Block,Blocks
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,185,,20IL-1,Gregory x 10602 -1A,4x revertant,+ +,21 SPI 320,1145,53,15.4,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,194,,20IL-10,Gregory x 10602 -3A,4x revertant,+ +,21 SPI 321,1175,51,11.8,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,195,,20IL-13,Gregory x 10602 -4A,4x revertant,+ +,21 SPI 322,1131,43,12,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,196,,20IL-16,Gregory x 10602 -5,4x revertant,+ +,21 SPI 323,1171,44,13.4,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,197,,20IL-17,Gregory x 10602 -6,4x revertant,+ +,21 SPI 324,1072,43,9.6,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,198,,20IL-18,Gregory x 10602 -7,4x revertant,+ +,21 SPI 325,1039,48,12,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,199,,20IL-19,Gregory x 10602 -8A,4x revertant,+ +,21 SPI 326,1244,53,16.4,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,186,,20IL-2,Gregory x 10602 -1B,4x revertant,+ +,21 SPI 327,1079,51,8.4,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,200,,20IL-22,Gregory x 10602 -10A,4x revertant,+ +,21 SPI 328,1218,46,9.6,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,201,,20IL-24,Gregory x 10602 -11,4x revertant,+ +,21 SPI 329,1043,47,9.8,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,202,,20IL-25,Gregory x 10602 -12,4x revertant,+ +,21 SPI 330,1190,38,18,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,203,,20IL-26,Gregory x 10602 -13,4x revertant,+ +,21 SPI 331,1105,42,12.6,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,204,,20IL-27,Gregory x 10602 -14A,4x revertant,+ +,21 SPI 332,1184,44,13.2,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,205,,20IL-29,Gregory x 10602 -15,4x revertant,+ +,21 SPI 333,1018,53,13.4,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,187,,20IL-3,Gregory x 10602 -1C,4x revertant,+ +,21 SPI 334,1121,43,10.8,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,206,,20IL-30,Gregory x 10602 -16,4x revertant,+ +,21 SPI 335,1242,48,15,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,207,,20IL-31,Gregory x 10602 -17,4x revertant,+ +,21 SPI 336,1128,42,11,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,208,,20IL-32,Gregory x 10602 -18,4x revertant,+ +,21 SPI 337,1225,47,17,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,209,,20IL-33,Gregory x 10602 -19,4x revertant,+ +,21 SPI 338,1251,49,16.4,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,188,,20IL-4,Gregory x 10602 -1D,4x revertant,+ +,21 SPI 339,1013,44,9.8,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,189,,20IL-5,Gregory x 10602 -1E,4x revertant,+ +,21 SPI 340,1025,41,14.6,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,190,,20IL-6,Gregory x 10602 -1F,4x revertant,+ +,21 SPI 341,1102,44,10.6,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,191,,20IL-7,Gregory x 10602 -1G,4x revertant,+ +,21 SPI 342,1095,43,10.6,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,192,,20IL-8,Gregory x 10602 -2A,4x revertant,+ +,21 SPI 343,1201,52,14.2,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,193,,20IL-9,Gregory x 10602 -2B,4x revertant,+ +,21 SPI 344,1014,26,9.2,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,1,,Bailey,Bailey,,+ +,21 SPI 1,1164,36,14.6,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,2,,Bailey II,Bailey II,,ol ol,21 SPI 2,1005,30,11,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,2,,Bailey II,Bailey II,,ol ol,21 SPI 2,1068,40,10.6,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,2,,Bailey II,Bailey II,,ol ol,21 SPI 2,1107,30,8.2,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,2,,Bailey II,Bailey II,,ol ol,21 SPI 2,1168,30,15.2,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,2,,Bailey II,Bailey II,,ol ol,21 SPI 2,1199,31,16.6,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,2,,Bailey II,Bailey II,,ol ol,21 SPI 2,1276,33,14.6,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,3,,Bailey II - Clones,Bailey II - Clones,,ol ol,21 SPI 3,1240,30,14.4,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,4,,Comrade,"N06015E /3/ X03157 (BC1F1-04-01-S-05-S-07: F08), Bailey*2 / Brantley",F1-1-4-1-2-2-1: F9,ol ol,21 SPI 4,1055,43,13.2,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,4,,Comrade,"N06015E /3/ X03157 (BC1F1-04-01-S-05-S-07: F08), Bailey*2 / Brantley",F1-1-4-1-2-2-1: F9,ol ol,21 SPI 4,1151,36,14.6,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,4,,Comrade,"N06015E /3/ X03157 (BC1F1-04-01-S-05-S-07: F08), Bailey*2 / Brantley",F1-1-4-1-2-2-1: F9,ol ol,21 SPI 4,1203,39,14.6,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,5,,Emery,Emery,,ol ol,21 SPI 5,1064,40,14.8,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,5,,Emery,Emery,,ol ol,21 SPI 5,1110,39,10.4,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,5,,Emery,Emery,,ol ol,21 SPI 5,1216,37,17.4,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,6,,GP-NC 343,GP-NC 343, ,+ +,21 SPI 7,1233,38,12.8,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,7,,Gregory,Gregory,,+ +,21 SPI 8,1024,46,13.6,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,7,,Gregory,Gregory,,+ +,21 SPI 8,1163,31,14.6,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,7,,Gregory,Gregory,,+ +,21 SPI 8,1271,38,15.6,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,210,,HTS 16-02,N08082olJCT / SPT 07-07,,Check,21 SPI 345,1246,32,13.4,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,211,,HTS 16-03,Sullivan / GP-NC WS 16,,Check,21 SPI 346,1208,44,14,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,212,,HTS 16-04,N11047olF / SPT 07-01,,Check,21 SPI 347,1004,44,12.6,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,213,,HTS 16-05,Emery / SPT 10-05ol,,Check,21 SPI 348,1137,37,14.6,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,214,,HTS 16-06,N08082olJCT / SPT 10-12ol,,Check,21 SPI 349,1170,48,16.6,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,215,,HTS 20-01,SPT 10-05ol,,Check,21 SPI 350,1142,40,13.6,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,216,,HTS 20-02,Wynne / SPT 07-01,,Check,21 SPI 351,1178,45,14.6,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,217,,HTS 20-03,N08082olJCT / SPT 07-01,,Check,21 SPI 352,1139,45,13.2,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,218,,HTS 20-04,Wynne / SPT 07-01,,Check,21 SPI 353,1255,53,16.6,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,219,,HTS 20-05,Wynne / SPT 10-12ol,,Check,21 SPI 354,1038,48,14,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,220,,HTS 20-06,SPT 06-07 / Hull,,Check,21 SPI 355,1223,49,16,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,221,,HTS IL-02,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 356,1029,30,10,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,222,,HTS IL-09,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 357,1226,52,,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,223,,HTS IL-10,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 358,1221,50,12,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,224,,HTS IL-13,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 359,1035,32,6,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,225,,HTS IL-16,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 360,1269,45,13.4,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,226,,HTS IL-19,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 361,1009,47,13.4,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,227,,HTS IL-21,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 362,1070,51,6.6,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,228,,HTS IL-22,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 363,1283,44,13.6,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,229,,HTS IL-25,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 364,1076,47,7.4,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,230,,HTS IL-28,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 365,1067,39,8.6,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,231,,HTS IL-29,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 366,1054,49,10.4,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,232,,HTS IL-30,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 367,1127,41,13.2,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,233,,HTS IL-33,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 368,1146,49,14.4,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,234,,HTS IL-34,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 369,1090,45,8,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,235,,HTS IL-37,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 370,1003,47,10.4,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,236,,HTS IL-38,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 371,1172,45,13.8,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,237,,HTS IL-39,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 372,1257,41,13.6,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,238,,HTS IL-40,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 373,1281,41,16.2,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,239,,HTS IL-41,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 374,1109,52,9.2,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,240,,HTS IL-43,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 375,1061,43,9.4,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,241,,HTS IL-44,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 376,1282,43,10.4,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,242,,HTS IL-46,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 377,1280,48,14.2,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,243,,HTS IL-47,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 378,1266,48,20,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,244,,HTS IL-49,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 379,1111,40,9.6,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,245,,HTS IL-50,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 380,1051,49,10.8,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,246,,HTS IL-51,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 381,1155,37,12.6,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,247,,HTS IL-52,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 382,1080,41,7,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,248,,HTS IL-53,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 383,1134,41,10.2,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,249,,HTS IL-54,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 384,1217,49,16,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,250,,HTS IL-55,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 385,1089,42,8.6,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,251,,HTS IL-56,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 386,1212,55,17.6,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,252,,HTS IL-58,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 387,1195,51,14.6,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,253,,HTS IL-59,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 388,1173,50,13.2,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,254,,HTS IL-65,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 389,1165,49,16,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,255,,HTS IL-66,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 390,1219,39,16,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,256,,HTS IL-67,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 391,1222,52,14.8,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,257,,HTS IL-68,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 392,1065,41,11,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,258,,HTS IL-71,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 393,1214,52,11.6,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,259,,HTS IL-72,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 394,1063,46,10.8,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,260,,HTS IL-73,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 395,1259,40,12.8,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,261,,HTS IL-74,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 396,1136,42,13.6,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,262,,HTS IL-76,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 397,1036,36,11,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,263,,HTS IL-77,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 398,1182,48,18.4,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,264,,HTS IL-84,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 399,1069,47,8,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,265,,HTS IL-88,Gregory / Arachis diogoi GKP 10602 (PI 276235),4x revertant,+ +,21 SPI 400,1196,51,15.4,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,20,,N05006,NC-V 11 // Georgia Green / NC-V 11,BC1F1-8-2-1-1-5: F8,+ +,21 SPI 264,1101,47,14,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,21,,N10066,"N03076FT // X05019 (F01), N03076FT / N02060ol (Per)",BC1F1-2-1-S-2-S-1: F9,ol ol,21 SPI 265,1093,41,12.4,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,22,,N11055,"N02005 /4/ X04062 (BC1F1-01: F01), N02005 /3/ X03188 (F01), N02005 // X97483 (BC2F1-02-01-03-01: F05), Wilson*3 / PI 599606 (""Cascara Negra"")",BC2F1-1-3-3: F6,+ +,21 SPI 266,1126,39,14.4,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,23,,N12009,"Bailey /4/ X07016 (BC2F1-04: F01), Bailey // X05027 (F01), Bailey / N02060ol (Per), X05249 (BC1F1-07-01: F03 ol ol) /3/ Bailey",BC3F1-2-1-S-2-S-3: F9,ol ol,21 SPI 267,1263,39,18.2,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,24,,N13031,"N03079FT*2 / N02054ol (11), X03153 (ol ol, BC1F1-03-01-S-04-S-02: F09) // SPT 06-06",F1-2-2-S-1-S-2: F9,ol ol,21 SPI 268,1059,42,10.8,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,25,,N13042,"N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05044FCSm",F1-1-3-S-1-S-2: F9,ol ol,21 SPI 269,1083,45,10.2,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,26,,N13051,"N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05044FCSm",F1-1-3-S-4-S-3: F9,ol ol,21 SPI 270,1274,47,17.2,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,27,,N14001,"N02006 // X05012, N02006 / N02064ol",BC1F1-7-2-1-1-1-2: F9,ol ol,21 SPI 21,1264,37,19.4,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,28,,N14002,"N03079FT // X05024, N03079FT / N02064ol",BC1F1-1-1-2-1-1-1: F9,ol ol,21 SPI 22,1031,41,13.6,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,29,,N14004,"Bailey // X05027, Bailey / N02060ol",BC1F1-4-1-1-1-1-1: F9,ol ol,21 SPI 23,1254,36,16.6,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,30,,N14007,"Phillips / N99121CSm, X00044 /3/ X05036, Phillips / N99121CSm, X00044 // N02064ol",BC1F1-3-1-1-2-2-3: F9,ol ol,21 SPI 24,1249,38,18,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,31,,N14009,"Phillips / N99121CSm, X00044 /3/ X05036, Phillips / N99121CSm, X00044 // N02064ol",BC1F1-3-1-3-1-2-1: F9,ol ol,21 SPI 25,1186,42,18.6,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,32,,N14017,"N02054ol // N02005 / N02054ol, X03138 /3/ N03084FT",F2-2-S-1-1-2: F9,ol ol,21 SPI 26,1081,46,8.4,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,33,,N14027,"Bailey /4/ X07019, Bailey // X05028, Bailey / N02064ol, X05250 /3/ Bailey",BC3F1-3-1-S-2-S-1: F9,ol ol,21 SPI 27,1023,48,11.4,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,34,,N14039,"Sullivan // X09017 (F01), Sullivan / Florida Fancy",BC1F1-2-2-S-2-S-2: F9,ol ol,21 SPI 271,1041,47,13.6,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,35,,N15017,"Bailey /4/ X07018, Bailey // X05028, Bailey / N02064ol, X05250 /3/ Bailey",BC3F1-1-3-2-2-2-2: F9,ol ol,21 SPI 28,1287,40,16,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,36,,N15039,"N03079FT*2 / N02054ol, X03153 // N05042F",F1-1-5-S-1-1-1: F9,ol ol,21 SPI 29,1288,31,13.4,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,37,,N15041,"N03079FT*2 / N02059ol, X03155 // N05044FCSm",F1-1-4-S-3-1-1: F9,ol ol,21 SPI 30,1204,47,15.2,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,38,,N15044,"N03079FT*2 / N02059ol, X03155 // N05044FCSm",F1-1-6-S-2-2-2: F9,ol ol,21 SPI 31,1027,44,16.2,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,39,,N15053,"N08082olJCT // X09019, N08082olJCT / Florida Fancy",BC1F1-3-1-S-2-S-3: F9,ol ol,21 SPI 32,1273,50,18.6,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,40,,N15060,"Bailey*2 / Brantley, N08086olJCT // SPT 07-01, NC-V 11 / GP-NC WS 11",F1-1-2-S-4-S-6: F9,ol ol,21 SPI 33,1213,49,14.2,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,41,,N15066,"Bailey*2 / Brantley, N08086olJCT // SPT 07-01, NC-V 11 / GP-NC WS 11",F1-1-2-S-7-S-1: F9,#NAME?,21 SPI 272,1058,47,13.8,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,42,,N16005,"Bailey*2 / Brantley, X03157 // GP-NC WS 16",F1-3-3-2-1-2-1: F9,ol ol,21 SPI 34,1268,35,14.6,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,43,,N16011,"N08082olJCT /3/ X09008 (F01), N08082olJCT // SPT 07-01, NC-V 11 / GP-NC WS 11",BC1F1-1-1-S-2-1-2: F9,ol ol,21 SPI 273,1278,42,14.4,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,44,,N16012,"N08082olJCT /3/ X09008, N08082olJCT // SPT 07-01, NC-V 11 / GP-NC WS 11",BC1F1-11-2-S-2-2-1: F9,ol ol,21 SPI 35,1066,47,13.2,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,45,,N16021,"N08082olJCT // X09019, N08082olJCT / Florida Fancy",BC1F1-1-1-S-3-1-1: F9,ol ol,21 SPI 36,1256,42,18.6,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,46,,N16028,"N08083olCT // X09031, N08083olCT / CRSP 702",BC1F1-2-2-S-1-2-1: F9,ol ol,21 SPI 37,1148,40,16.8,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,47,,N16030,"N08083olCT // X09031 (F01), N08083olCT / CRSP 702",BC1F1-7-1-S-1-2-1: F9,ol ol,21 SPI 274,1252,36,16.6,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,48,,N16032,"N08070olJC /3/ X11005 , N08070olJC // X08054, N08059olFCT / GP-NC WS 16 ",BC1F1-1-2-S-1-S-1: F9,#NAME?,21 SPI 38,1207,41,17.6,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,49,,N16034,"N08070olJC /3/ X11010, N08070olJC // X08055, N08059olFCT / GP-NC WS 17 ",BC1F1-1-1-S-3-S-5: F9,ol ol,21 SPI 39,1104,44,11.8,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,50,,N16035,"Wynne /3/ X11015 (F1), Wynne // X08054 (F1-03-01: F04), N08059olFCT / GP-NC WS 16 (SPT 06-06)",BC1F1-3-1-S-5-S-4: F9,ol ol,21 SPI 275,1206,45,18.4,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,51,,N16050,"N08082olJCT /3/ X11029 (F1), N08082olJCT // X08055 (F1-03-05: F04), N08059olFCT / GP-NC WS 17 (SPT 06-07)",BC1F1-3-1-SS-2-SS-3: F9,ol ol,21 SPI 276,1183,37,18,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,52,,N16055,"N09049olC /3/ X11034, N09049olC // X08054, N08059olFCT / GP-NC WS 16 ",BC1F1-1-1-S-2-S-3: F9,ol ol,21 SPI 40,1085,48,9.4,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,53,,N17036,"Emery /3/ N11035olSrT, N03079FT*2 / Brantley, X03151 // Sugg",F1-2-1-S-2-S-3: F9,ol ol,21 SPI 41,1174,46,17,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,54,,N17037,"Emery /3/ N11035olSrT, N03079FT*2 / Brantley, X03151 // Sugg",F1-2-1-S-2-S-5: F9,ol ol,21 SPI 42,1236,46,20.8,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,55,,N17039,"N03079FT*2 /  Brantley, N10047ol // N12010ol, Bailey*4 / N02060ol (Per)",F1-1-1-S-3-S-1: F9,ol ol,21 SPI 277,1049,48,9,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,56,,N17040,"N03079FT*2 / Brantley, N10047ol // N12010ol, Bailey*4 / N02060ol",F1-1-1-S-3-S-2: F9,ol ol,21 SPI 43,1053,51,10.6,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,57,,N17041,"N03079FT*2 / Brantley, N10047ol // N12010ol, Bailey*4 / N02060ol",F1-1-1-S-3-S-3: F9,ol ol,21 SPI 44,1143,42,13.6,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,58,,N17042,"N03079FT*2 /  Brantley, N10047ol // N12010ol, Bailey*4 / N02060ol (Per)",F1-1-1-S-3-S-4: F9,ol ol,21 SPI 278,1011,48,14.4,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,59,,N17044,"Bailey*2 / Brantley, N10053ol // Bailey II, Bailey*4 / N02060ol",F1-1-3-S-3-S-5: F9,ol ol,21 SPI 45,1008,33,14,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,60,,N17045,"Bailey*2 / Brantley, N10053ol /3/ CRSP 1050-110, Florida MDR 98 / Bayo Grande, 0020-20 // FNC94022-1-2-1-1-b3-B , N91026E / PI 576638",F1-1-2-S-2-S-1: F9,ol ol,21 SPI 46,1235,45,17.6,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,61,,N17046,"Bailey*2 /  Brantley, N10053ol /3/ CRSP 1050-110, Florida MDR 98 / Bayo Grande, 0020-20 // FNC94022-1-2-1-1-b3-B (I6), N91026E / PI 576638",F1-1-2-S-2-S-2: F9,ol ol,21 SPI 279,1270,32,17.2,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,62,,N17047,"Bailey*2 / Brantley, N10053ol /3/ CRSP 1050-110, Florida MDR 98 / Bayo Grande, 0020-20 // FNC94022-1-2-1-1-b3-B , N91026E / PI 576638",F1-1-2-S-2-S-4: F9,ol ol,21 SPI 47,1149,47,16.4,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,63,,N18002,"N00052 / N00098ol, N09024olJ // N09037ol, N03079FT*2 / Brantley",F1-2-1-1-2-1-1: F9,ol ol,21 SPI 48,1197,47,17.2,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,64,,N18010,"N03079FT*2 / Brantley, N09037ol // Sugg",F1-2-1-1-2-1-1: F9,ol ol,21 SPI 49,1239,50,18,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,65,,N18011,"N03079FT*2 / Brantley, N09037ol // Sugg",F1-3-2-1-1-2-2: F9,ol ol,21 SPI 280,1088,40,8.8,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,66,,N18012,"N03075FT / N00098ol, N09053olCSm // N08070olJC, N03079FT*2 / N02059ol",F1-2-2-1-3-2-1: F9,ol ol,21 SPI 50,1247,43,17,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,67,,N18015,"N08070olJC /3/ X11005 (F1), N08070olJC // X08054 (F1-03-01: F04), N08059olFCT / SPT 06-06",BC1F1-1-1-S-3-2-1: F9,ol ol,21 SPI 281,1006,40,14.4,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,68,,N18018,"N09049olC /3/ X11039 (F1), N09049olC // X08055 (F1-03-05: F04), N08059olFCT / SPT 06-07",BC1F1-1-2-S-1-1-1: F9,ol ol,21 SPI 282,1119,38,15.8,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,69,,N18026,"N03079FT*2 / N02054ol, N09042olF // Bailey II, Bailey*4 / N02060ol",F1-1-3-S-4-S-1: F9,ol ol,21 SPI 51,1132,32,16,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,70,,N18029,"Emery /3/ N11035olSrT, N03079FT*2 / Brantley, X03151 // Sugg",F1-2-1-S-1-S-2: F9,ol ol,21 SPI 52,1099,48,14,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,71,,N18033,"Sullivan /3/ N11045ol, N03079FT*2 / N02054ol, X03153 // N03078FT",F1-2-2-1-S-2-S-2: F9,ol ol,21 SPI 53,1037,35,10.8,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,72,,N18034,"Sullivan /3/ N11045ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-2-2-1-S-2-S-4: F9,ol ol,21 SPI 283,1176,34,15.4,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,73,,N18035,"Sullivan /3/ N11045ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-2-4-2-S-2-S-1: F9,ol ol,21 SPI 284,1130,42,18.4,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,74,,N18036,"Sullivan /3/ N11045ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-2-4-2-S-2-S-2: F1,ol ol,21 SPI 285,1215,43,19.2,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,75,,N18037,"Sullivan /3/ N11045ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-2-4-2-S-2-S-3: F1,ol ol,21 SPI 286,1179,34,17.8,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,76,,N18038,"Sullivan /3/ N11045ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-2-4-2-S-3-S-1: F1,ol ol,21 SPI 287,1243,39,17.6,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,77,,N18039,"Sullivan /3/ N11045ol, N03079FT*2 / N02054ol, X03153 // N03078FT",F1-2-4-2-S-3-S-3: F1,ol ol,21 SPI 54,1253,37,17.2,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,78,,N18040,"Emery // N10043olJ, N02006*2 /  N02059ol (Per)",F1-1-6-1-S-1-S-3: F9,ol ol,21 SPI 288,1057,37,11.6,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,79,,N18041,"Emery // N10043olJ, N02006*2 /  N02059ol (Per)",F1-1-7-1-S-1-S-3: F9,ol ol,21 SPI 289,1048,47,11.4,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,80,,N18042,"Emery // N10043olJ, N02006*2 / N02059ol ",F1-1-7-1-S-4-S-4: F9,ol ol,21 SPI 55,1150,42,15.6,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,81,,N18043,"Emery // N10043olJ, N02006*2 /  N02059ol (Per)",F1-1-7-1-S-5-S-1: F9,ol ol,21 SPI 290,1272,36,12.6,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,82,,N18044,"Emery // N10043olJ, N02006*2 / N02059ol ",F1-1-7-1-S-5-S-2: F9,ol ol,21 SPI 56,1191,48,16.8,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,83,,N18045,"Emery // N10043olJ, N02006*2 /  N02059ol (Per)",F1-1-7-1-S-5-S-3: F9,ol ol,21 SPI 291,1046,39,11.4,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,84,,N18047,"N03079FT*2 / Brantley, X03151 (BC1F1-05-02-S-04: F05) // Sugg, N11038olSrT /3/ Emery",F1-1-4-1-S-1-S-3: F9,ol ol,21 SPI 292,1001,39,13.2,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,85,,N18048,"N03079FT*2 / Brantley, X03151 (BC1F1-05-02-S-04: F05) // Sugg, N11038olSrT /3/ Emery",F1-1-4-1-S-1-S-6: F9,ol ol,21 SPI 293,1028,31,13,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,86,,N18049,"N07018JCSm // N12009olCLT, Bailey*4 / N02060ol ",F1-1-4-1-S-2-S-3: F9,#NAME?,21 SPI 57,1228,43,16.2,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,87,,N18050,"N07018JCSm // N12009olCLT, Bailey*4 / N02060ol (Per)",F1-1-4-1-S-2-S-5: F9,#NAME?,21 SPI 294,1073,32,10.4,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,88,,N18051,"N07018JCSm // N12009olCLT, Bailey*4 / N02060ol (Per)",F1-1-4-1-S-4-S-1: F9,#NAME?,21 SPI 295,1016,37,12,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,89,,N18053,"N07018JCSm // N12009olCLT, Bailey*4 / N02060ol (Per)",F1-1-4-1-S-4-S-3: F9,#NAME?,21 SPI 296,1113,41,13.6,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,90,,N18055,"Emery // N10043olJ, N02006*2 /  N02059ol ",F1-1-6-1-S-1-S-2: F9,ol ol,21 SPI 58,1106,41,12,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,91,X11077,N19001,"N08082olJCT /3/ X11027 (F1), N08082olJCT // X08055 (F1-03-02: F04), N08059olFCT / GP-NC WS 17 (SPT 06-07)",BC1F1-4-1-4-1-1-1: F9,ol ol,21 SPI 297,1118,40,15,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,92,X11083,N19002,"N09049olC /3/ X11033 (F1), N09049olC // X08054 (F1-01-02: F04), N08059olFCT / GP-NC WS 16 (SPT 06-06)",BC1F1-3-2-1-3-1-1: F9,ol ol,21 SPI 298,1052,41,7.6,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,93,X11093,N19003,"N09053olCSm /3/ X11043, N09053olCSm // X08054, N08059olFCT / GP-NC WS 16 ",BC1F1-13-1-2-3-1-1: F9,ol ol,21 SPI 59,1060,40,13.6,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,94,X11095,N19004,"N09053olCSm /3/ X11045 (F1), N09053olCSm // X08054 (F1-03-01: F04), N08059olFCT / GP-NC WS 16 (SPT 06-06)",BC1F1-6-1-2-1-1-1: F9,ol ol,21 SPI 299,1205,26,15.4,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,95,X11100,N19005,"N09053olCSm /3/ X11050, N09053olCSm // X08055, N08059olFCT / GP-NC WS 17 ",BC1F1-7-1-2-2-2-1: F9,ol ol,21 SPI 60,1129,40,16.2,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,96,X11100,N19006,"N09053olCSm /3/ X11050, N09053olCSm // X08055, N08059olFCT / GP-NC WS 17 ",BC1F1-9-2-4-1-1-1: F9,ol ol,21 SPI 61,1002,33,12.6,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,97,X12001,N19007,"N03079FT*2 /  Brantley, N09037ol // N12007ol, Bailey*4 / N02060ol (Per)",F1-1-1-S-2-1-1: F9,ol ol,21 SPI 300,1078,34,8,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,98,X12002,N19008,"N03079FT*2 /  Brantley, N09037ol // Bailey II (N12008olCLSmT)",F1-8-2-S-1-1-1: F9,ol ol,21 SPI 301,1158,44,18,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,99,X12003,N19009,"N03079FT*2 / Brantley, N09037ol // N12010ol, Bailey*4 / N02060ol ",F1-2-2-S-1-1-1: F9,ol ol,21 SPI 62,1026,41,13.4,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,100,X12003,N19010,"N03079FT*2 /  Brantley, N09037ol // N12010ol, Bailey*4 / N02060ol (Per)",F1-4-1-S-1-1-1: F9,ol ol,21 SPI 302,1087,43,11.2,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,101,X12005,N19011,"N03079FT*2 /  Brantley, N09037ol /3/ N10061olFCLSm, N03073FT // X05016 (F01), N03073FT / N02064ol",F1-6-2-S-1-1-1: F9,ol ol,21 SPI 303,1034,46,15.8,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,102,X12008,N19012,"N03079FT*2 /  N02054ol , N09039olF // Bailey II",F1-3-1-S-1-1-1: F9,ol ol,21 SPI 63,1154,41,15.8,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,103,X13009,N19013,"Sullivan /4/ N11020olJ, N02059ol  // N02006 / N02059ol , X03146 /3/ N03084FT",F1-3-5-1-S-4-S-3: F9,ol ol,21 SPI 64,1084,49,9,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,104,X13009,N19014,"Sullivan /4/ N11020olJ, N02059ol  // N02006 / N02059ol , X03146 /3/ N03084FT",F1-3-7-1-S-1-1: F9,ol ol,21 SPI 65,1277,45,17.2,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,105,X13009,N19015,"Sullivan /4/ N11020olJ, N02059ol  // N02006 / N02059ol , X03146 /3/ N03084FT",F1-3-9-1-S-4-S-1: F9,ol ol,21 SPI 66,1185,47,17.8,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,106,X13009,N19016,"Sullivan /4/ N11020olJ, N02059ol (Per) // N02006 / N02059ol (Per), X03146 (BC1F1-01-03-01: F04) /3/ N03084FT",F1-3-9-1-S-4-S-3: F9,ol ol,21 SPI 304,1230,54,20.6,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,107,X13011,N19017,"Sullivan /3/ N11045ol, N03079FT*2 / N02054ol , X03153 // N03078FT",F1-2-2-1-S-1-S-3: F9,ol ol,21 SPI 67,1017,49,11.2,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,108,X13011,N19018,"Sullivan /3/ N11045ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-2-2-1-S-3-S-1: F9,ol ol,21 SPI 305,1177,43,16.4,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,109,X13011,N19019,"Sullivan /3/ N11045ol, N03079FT*2 / N02054ol , X03153 // N03078FT",F1-2-2-1-S-3-S-3: F9,ol ol,21 SPI 68,1286,45,15.8,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,110,X13013,N19020,"Emery // N10043olJ, N02006*2 /  N02059ol (Per)",F1-1-2-1-S-2-1: F9,ol ol,21 SPI 306,1210,43,20.6,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,111,X13013,N19021,"Emery // N10043olJ, N02006*2 /  N02059ol ",F1-1-4-1-S-1-1: F9,ol ol,21 SPI 69,1159,37,19.4,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,112,X13013,N19022,"Emery // N10043olJ, N02006*2 /  N02059ol (Per)",F1-1-5-2-S-4-S-3: F9,ol ol,21 SPI 307,1097,48,15.2,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,113,X13017,N19023,"Emery /3/ N11045ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-1-4-1-S-3-S-1: F9,ol ol,21 SPI 308,1260,44,16.4,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,114,X13017,N19024,"Emery /3/ N11045ol, N03079FT*2 / N02054ol , X03153 // N03078FT",F1-1-4-1-S-4-1: F9,ol ol,21 SPI 70,1077,48,10.4,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,115,X13017,N19025,"Emery /3/ N11045ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-2-1-2-S-2-1: F9,ol ol,21 SPI 309,1092,49,11.4,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,116,X13017,N19026,"Emery /3/ N11045ol, N03079FT*2 / N02054ol , X03153 // N03078FT",F1-2-2-1-S-2-S-4: F9,ol ol,21 SPI 71,1125,41,14.6,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,117,X13018,N19027,"Emery /3/ N11054B, N02005*4 // Wilson*3 / PI 599606 (""Cascara Negra"")",F1-1-6-2-S-2-S-1: F9,ol ol,21 SPI 310,1019,45,11,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,118,X13018,N19028,"Emery /3/ N11054B, N02005*4 // Wilson*3 / PI 599606",F1-1-6-2-S-5-S-3: F9,ol ol,21 SPI 72,1045,51,13,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,119,X13038,N19029,"N03079FT*2 / Brantley, X03151 // Sugg, N11038olSrT /3/ Emery",F1-1-4-1-S-5-S-2: F9,ol ol,21 SPI 73,1120,41,14.4,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,120,X13038,N19030,"N03079FT*2 / Brantley, X03151 // Sugg, N11038olSrT /3/ Emery",F1-1-4-1-S-5-S-3: F9,ol ol,21 SPI 74,1279,33,15.4,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,121,X14076,N19031,"N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05044FCSm, N13041olJ /3/ X14011 (F01), Bailey*4 / N02060ol (Per), N12009olCLT // N11019olJ, N03090T*2 / N02064ol",BC1F1-5-1-S-3-S-1: F9,ol ol,21 SPI 311,1108,45,10,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,122,X14076,N19032,"N03079FT*2 / N02059ol , X03155 // N05044FCSm, N13041olJ /3/ X14011, Bailey*4 / N02060ol , N12009olCLT // N11019olJ, N03090T*2 / N02064ol",BC1F1-5-1-S-3-S-3: F9,ol ol,21 SPI 75,1103,44,12,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,123,X14076,N19033,"N03079FT*2 / N02059ol , X03155 // N05044FCSm, N13041olJ /3/ X14011, Bailey*4 / N02060ol , N12009olCLT // N11019olJ, N03090T*2 / N02064ol",BC1F1-5-2-S-1-S-3: F9,ol ol,21 SPI 76,1229,47,17.2,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,124,X14076,N19034,"N03079FT*2 / N02059ol , X03155 // N05044FCSm, N13041olJ /3/ X14011, Bailey*4 / N02060ol , N12009olCLT // N11019olJ, N03090T*2 / N02064ol",BC1F1-5-2-S-3-S-2: F9,ol ol,21 SPI 77,1198,40,19,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,125,X14076,N19035,"N03079FT*2 / N02059ol , X03155 // N05044FCSm, N13041olJ /3/ X14011, Bailey*4 / N02060ol , N12009olCLT // N11019olJ, N03090T*2 / N02064ol",BC1F1-5-2-S-3-S-4: F9,ol ol,21 SPI 78,1284,37,16.4,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,126,X14079,N19036,"N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05044FCSm, N13041olJ /4/ X14014 (F01), Bailey*4 / N02060ol (Per), N12009olCLT /3/ N13055ol, N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05049J",BC1F1-1-2-S-3-S-3: F9,ol ol,21 SPI 312,1100,40,12.2,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,127,X14080,N19037,"N03079FT*2 / N02059ol, X03155 // N05044FCSm, N13041olJ /4/ X14015, Bailey*4 / N02060ol, N12009olCLT /3/ N13056olSm, N03079FT*2 / N02059ol, X03155 // N05049J",BC1F1-2-1-S-1-S-1: F9,ol ol,21 SPI 79,1056,50,12.6,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,128,X14080,N19038,"N03079FT*2 / N02059ol, X03155 // N05044FCSm, N13041olJ /4/ X14015, Bailey*4 / N02060ol, N12009olCLT /3/ N13056olSm, N03079FT*2 / N02059ol, X03155 // N05049J",BC1F1-2-1-S-1-S-2: F9,ol ol,21 SPI 80,1224,49,18.4,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,129,X14080,N19039,"N03079FT*2 / N02059ol, X03155 // N05044FCSm, N13041olJ /4/ X14015, Bailey*4 / N02060ol, N12009olCLT /3/ N13056olSm, N03079FT*2 / N02059ol, X03155 // N05049J",BC1F1-2-1-S-1-S-3: F9,ol ol,21 SPI 81,1193,41,16.6,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,130,X14084,N19040,"N03079FT*2 / N02059ol, X03155 // N05044FCSm, N13041olJ /4/ X14019, Bailey*4 / N02060ol, N12010ol /3/ N13055ol, N03079FT*2 / N02059ol, X03155 // N05049J",BC1F1-5-1-S-5-S-1: F9,ol ol,21 SPI 82,1114,47,16.4,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,131,X14088,N19041,"N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05044FCSm, N13045ol /4/ X14023 (F01), Bailey*4 / N02064ol, N12014ol /3/ N13045ol, N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05044FCSm",BC1F1-1-2-S-2-S-3: F9,ol ol,21 SPI 313,1012,40,12.4,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,132,X14097,N19042,"N03079FT*2 / N02059ol, X03155 // N05049J, N13055ol /4/ X14032, N08075olCT // X09017, Sullivan / Florida Fancy, X09050 /3/ N13041olJ, N03079FT*2 / N02059ol, X03155 // N05044FCSm",BC1F1-3-1-S-4-S-1: F9,ol ol,21 SPI 83,1160,42,17,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,133,X14097,N19043,"N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05049J, N13055ol /4/ X14032 (F01), N08075olCT // X09017 (F01), Sullivan / Florida Fancy, X09050 (BC1F1-02-02-S-01-S-02: F08) /3/ N13041olJ, N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05044FCSm",BC1F1-3-1-S-4-S-2: F9,ol ol,21 SPI 314,1241,43,17.8,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,134,X14098,N19044,"N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05049J, N13055ol /4/ X14033 (F01), N08075olCT // X09017 (F01), Sullivan / Florida Fancy, X09050 (BC1F1-02-02-S-01-S-02: F08) /3/ N13045ol, N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05044FCSm",BC1F1-1-1-S-1-S-3: F9,ol ol,21 SPI 315,1200,43,18.2,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,135,X14098,N19045,"N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05049J, N13055ol /4/ X14033 (F01), N08075olCT // X09017 (F01), Sullivan / Florida Fancy, X09050 (BC1F1-02-02-S-01-S-02: F08) /3/ N13045ol, N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05044FCSm",BC1F1-1-1-S-2-S-1: F9,ol ol,21 SPI 316,1211,42,19,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,136,X14098,N19046,"N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05049J, N13055ol /4/ X14033 (F01), N08075olCT // X09017 (F01), Sullivan / Florida Fancy, X09050 (BC1F1-02-02-S-01-S-02: F08) /3/ N13045ol, N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05044FCSm",BC1F1-1-1-S-2-S-3: F9,ol ol,21 SPI 317,1169,48,17.4,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,137,X14104,N19047,"N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05049J, N13055ol /4/ X14039 (F01), N08075olCT // X09017 (F01), Sullivan / Florida Fancy, X09050 (BC1F1-02-02-S-02-S-02: F08) /3/ N13055ol, N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05049J",BC1F1-1-1-S-1-S-1: F9,ol ol,21 SPI 318,1267,42,14.8,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,138,X14104,N19048,"N03079FT*2 / N02059ol, X03155 // N05049J, N13055ol /4/ X14039, N08075olCT // X09017, Sullivan / Florida Fancy, X09050 /3/ N13055ol, N03079FT*2 / N02059ol, X03155 // N05049J",BC1F1-1-1-S-1-S-3: F9,ol ol,21 SPI 84,1138,34,16.6,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,139,X14104,N19049,"N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05049J, N13055ol /4/ X14039 (F01), N08075olCT // X09017 (F01), Sullivan / Florida Fancy, X09050 (BC1F1-02-02-S-02-S-02: F08) /3/ N13055ol, N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05049J",BC1F1-1-1-S-3-S-2: F9,ol ol,21 SPI 319,1202,51,16.8,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,140,X14108,N19050,"N03079FT*2 / N02059ol, X03155 // N05049J, N13056olSm /4/ X14043, N08080olC // X09029, N08080olC / CRSP 702, X09062 /3/ N13045ol, N03079FT*2 / N02059ol , X03155 // N05044FCSm",BC1F1-2-1-S-1-S-1: F9,ol ol,21 SPI 85,1153,47,16,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,141,X12008,N21001,"N03079FT*2 /  N02054ol (11), N09039olF // Bailey II (N12008olCLSmT)",F1-1-4-3-1-1-2-1: F9,ol ol,21 SPI 86,1144,38,13.2,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,142,X12008,N21002,"N03079FT*2 /  N02054ol (11), N09039olF // Bailey II (N12008olCLSmT)",F1-3-3-3-1-1-2-1: F9,ol ol,21 SPI 87,1166,37,15.8,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,143,X12011,N21003,"N03079FT*2 /  N02054ol (11), N09039olF /3/ N10061olFCLSm, N03073FT // X05016 (F01), N03073FT / N02064ol",F1-1-1-1-1-1-1-1: F9,ol ol,21 SPI 88,1135,41,17,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,144,X12011,N21004,"N03079FT*2 /  N02054ol (11), N09039olF /3/ N10061olFCLSm, N03073FT // X05016 (F01), N03073FT / N02064ol",F1-1-1-2-1-1-2-1: F9,ol ol,21 SPI 89,1117,45,13.6,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,145,X12012,N21005,"N03079FT*2 /  N02054ol (11), N09039olF /3/ N11035olSrT, N03079FT*2 / Brantley, X03151 (BC1F1-05-02-S-04: F05) // Sugg",F1-1-1-2-1-1-2-1: F9,ol ol,21 SPI 90,1194,45,18.4,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,146,X12012,N21006,"N03079FT*2 /  N02054ol (11), N09039olF /3/ N11035olSrT, N03079FT*2 / Brantley, X03151 (BC1F1-05-02-S-04: F05) // Sugg",F1-1-1-3-1-2-1-1: F9,ol ol,21 SPI 91,1015,40,12,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,147,X12014,N21007,"N03079FT*2 /  N02054ol (11), N09042olF // Bailey II (N12008olCLSmT)",F1-1-4-1-1-1-2-1: F9,ol ol,21 SPI 92,1167,39,17.4,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,148,X12015,N21008,"N03079FT*2 /  N02054ol (11), N09042olF // N12010ol, Bailey*4 / N02060ol (Per)",F1-1-1-4-2-2-1-1: F9,ol ol,21 SPI 93,1156,37,15.8,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,149,X12015,N21009,"N03079FT*2 /  N02054ol (11), N09042olF // N12010ol, Bailey*4 / N02060ol (Per)",F1-3-1-2-1-2-1-1: F9,ol ol,21 SPI 94,1071,47,13.2,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,150,X12025,N21010,"N03079FT*2 /  Brantley, N10047ol // N12007ol, Bailey*4 / N02060ol (Per)",F1-4-3-3-1-2-1-1: F9,ol ol,21 SPI 95,1082,40,6.2,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,151,X12033,N21011,"Bailey*2 /  Brantley, N10053ol // N12010ol, Bailey*4 / N02060ol (Per)",F1-1-2-2-1-1-3-1: F9,ol ol,21 SPI 96,1232,45,16.2,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,152,X13010,N21012,"Sullivan /3/ N11043ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-2-1-1-1-1-1-1: F9,ol ol,21 SPI 97,1237,39,19.4,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,153,X13010,N21013,"Sullivan /3/ N11043ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-2-1-2-1-1-1-1: F9,ol ol,21 SPI 98,1047,42,9.2,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,154,X13015,N21014,"Emery (N10046ol) /4/ N11020olJ, N02059ol (Per) // N02006 / N02059ol (Per), X03146 (BC1F1-01-03-01: F04) /3/ N03084FT",F1-1-2-1-1-1-1-1: F9,ol ol,21 SPI 99,1074,54,12.8,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,155,X13018,N21015,"Emery (N10046ol) /3/ N11054B, N02005*4 // Wilson*3 / PI 599606 (""Cascara Negra"")",F1-1-3-1-1-1-1-1: F9,ol ol,21 SPI 100,1010,47,13.6,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,156,X13019,N21016,"N03073FT // X05016 (F01), N03073FT / N02064ol, N10061olFCLSm /3/ N10043olJ, N02006*2 / N02059ol (Per)",F1-1-3-1-1-2-2-1: F9,ol ol,21 SPI 101,1091,49,12.2,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,157,X13025,N21017,"N03076FT // X05019 (F01), N03076FT / N02060ol (Per), N10066olSmT /3/ N10043olJ, N02006*2 / N02059ol (Per)",F1-1-1-1-1-1-3-1: F9,ol ol,21 SPI 102,1187,42,16,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,158,X13027,N21018,"N03076FT // X05019 (F01), N03076FT / N02060ol (Per), N10066olSmT /4/ N11020olJ, N02059ol (Per) // N02006 / N02059ol (Per), X03146 (BC1F1-01-03-01: F04) /3/ N03084FT",F1-1-2-2-1-1-1-1: F9,ol ol,21 SPI 103,1098,42,15,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,159,X13028,N21019,"N03076FT // X05019 (F01), N03076FT / N02060ol (Per), N10066olSmT /3/ N11043ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-2-4-1-1-1-3-1: F9,ol ol,21 SPI 104,1250,45,19.2,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,160,X13029,N21020,"N03076FT // X05019 (F01), N03076FT / N02060ol (Per), N10066olSmT /3/ N11045ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-1-4-1-3-3-2-1: F9,ol ol,21 SPI 105,1285,40,16.6,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,161,X13029,N21021,"N03076FT // X05019 (F01), N03076FT / N02060ol (Per), N10066olSmT /3/ N11045ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-1-4-2-1-1-2-1: F9,ol ol,21 SPI 106,1181,48,172,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,162,X14113,N21022,"N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05049J, N13056olSm /4/ X14048 (F01), SPT 13-05ol /3/ N13045ol, N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05044FCSm",BC1F1-1-2-3-1-1: F9,ol ol,21 SPI 107,1022,45,11.2,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,163,X13041,N21023,"N03079FT*2 / Brantley, X03151 (BC1F1-05-02-S-04: F05) // Sugg, N11038olSrT /3/ N11045ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-1-2-2-1-1-1-1: F9,ol ol,21 SPI 108,1096,38,13,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,164,X13041,N21024,"N03079FT*2 / Brantley, X03151 (BC1F1-05-02-S-04: F05) // Sugg, N11038olSrT /3/ N11045ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-1-2-2-2-1-2-1: F9,ol ol,21 SPI 109,1152,47,16.6,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,165,X13049,N21025,"Bailey II (N12008olCLSmT) // N10043olJ, N02006*2 / N02059ol (Per)",F1-1-1-2-1-2-1-1: F9,ol ol,21 SPI 110,1112,42,11.4,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,166,X13049,N21026,"Bailey II (N12008olCLSmT) // N10043olJ, N02006*2 / N02059ol (Per)",F1-1-4-2-1-1-1-1: F9,ol ol,21 SPI 111,1133,30,12.6,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,167,X13058,N21027,"Bailey*4 / N02060ol (Per), N12009olCLT /4/ N11043ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-1-5-2-1-1-1-1: F9,ol ol,21 SPI 112,1192,46,17.8,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,168,X13058,N21028,"Bailey*4 / N02060ol (Per), N12009olCLT /4/ N11043ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-2-3-2-1-1-1-1: F9,ol ol,21 SPI 113,1020,40,11.6,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,169,X13058,N21029,"Bailey*4 / N02060ol (Per), N12009olCLT /4/ N11043ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-2-4-1-1-2-1-1: F9,ol ol,21 SPI 114,1094,42,13.2,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,170,X13058,N21030,"Bailey*4 / N02060ol (Per), N12009olCLT /4/ N11043ol, N03079FT*2 / N02054ol (11), X03153 (BC1F1-04-01-S-01: F05) // N03078FT",F1-2-5-1-1-1-1-1: F9,ol ol,21 SPI 115,1238,36,17.8,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,171,X14073,N21031,"N03090T*2 / N02064ol, N11019olJ /4/ X14008 (F01), Bailey*4 / N02060ol (Per), N12007ol /3/ N13045ol, N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05044FCSm, N97135C / N96076L",BC1F1-4-2-S-1-S-1-1: F9,ol ol,21 SPI 116,1265,41,17.4,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,172,X14073,N21032,"N03090T*2 / N02064ol, N11019olJ /4/ X14008 (F01), Bailey*4 / N02060ol (Per), N12007ol /3/ N13045ol, N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05044FCSm, N97135C / N96076L",BC1F1-4-2-S-4-S-1-1: F9,ol ol,21 SPI 117,1007,43,14.8,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,173,X14097,N21033,"N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05049J, N13055ol /4/ X14032 (F01), N08075olCT // X09017 (F01), Sullivan / Florida Fancy, X09050 (BC1F1-02-02-S-01-S-02: F08) /3/ N13041olJ, N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05044FCSm, N97135C / N96076L",BC1F1-3-1-S-3-S-1-1: F9,ol ol,21 SPI 118,1248,45,15.2,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,174,X15060,N21034,"Bailey /4/ X07016 (BC2F1-04: F01), Bailey // X05027 (F01), Bailey / N02060ol (Per), X05249 (BC1F1-07-01: F03 ol ol) /3/ Bailey, N12007ol*2 /5/ N15063olLSm (14 DPT 010, X10001: F1-01-02-S-05-S-01: F08), Bailey*2 / Brantley, N08086olJCT // SPT 07-01, NC-V 11 / GP-NC WS 11",BC1F1-1-4-S-4-S-3: F9,ol ol,21 SPI 119,1062,41,11.4,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,175,X15061,N21035,"Bailey /4/ X07016 (BC2F1-04: F01), Bailey // X05027 (F01), Bailey / N02060ol (Per), X05249 (BC1F1-07-01: F03 ol ol) /3/ Bailey, N12007ol*2 /5/ N15066olLSmT (14 DPT 014, X10001: F1-01-02-S-07-S-01: F08), Bailey*2 / Brantley, N08086olJCT // SPT 07-01, NC-V 11 / GP-NC WS 11",BC1F1-2-2-S-3-S-2: F9,ol ol,21 SPI 120,1234,38,15.4,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,176,X15061,N21036,"Bailey /4/ X07016 (BC2F1-04: F01), Bailey // X05027 (F01), Bailey / N02060ol (Per), X05249 (BC1F1-07-01: F03 ol ol) /3/ Bailey, N12007ol*2 /5/ N15066olLSmT (14 DPT 014, X10001: F1-01-02-S-07-S-01: F08), Bailey*2 / Brantley, N08086olJCT // SPT 07-01, NC-V 11 / GP-NC WS 11",BC1F1-2-2-S-4-S-1: F9,ol ol,21 SPI 121,1261,33,14.6,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,177,X15065,N21037,"Bailey /4/ X07016 (BC2F1-04: F01), Bailey // X05027 (F01), Bailey / N02060ol (Per), X05249 (BC1F1-07-01: F03 ol ol) /3/ Bailey, N12010ol*2 /5/ N14043olLSmT, N08082olJCT // X09019 (F01), N08082olJCT / Florida Fancy",BC1F1-2-1-S-2-S-1: F9,ol ol,21 SPI 122,1189,30,14.6,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,178,X15068,N21038,"Bailey /4/ X07016 (BC2F1-04: F01), Bailey // X05027 (F01), Bailey / N02060ol (Per), X05249 (BC1F1-07-01: F03 ol ol) /3/ Bailey, N12010ol*2 /5/ N15068olLSmT (14 DPT 015, X10001: F1-01-02-S-07-S-03: F08), Bailey*2 / Brantley, N08086olJCT // SPT 07-01, NC-V 11 / GP-NC WS 11",BC1F1-2-3-S-1-S-1: F9,ol ol,21 SPI 123,1115,47,14.6,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,179,X15068,N21039,"Bailey /4/ X07016 (BC2F1-04: F01), Bailey // X05027 (F01), Bailey / N02060ol (Per), X05249 (BC1F1-07-01: F03 ol ol) /3/ Bailey, N12010ol*2 /5/ N15068olLSmT (14 DPT 015, X10001: F1-01-02-S-07-S-03: F08), Bailey*2 / Brantley, N08086olJCT // SPT 07-01, NC-V 11 / GP-NC WS 11",BC1F1-2-3-S-2-S-1: F9,ol ol,21 SPI 124,1123,33,14,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,180,X15068,N21040,"Bailey /4/ X07016 (BC2F1-04: F01), Bailey // X05027 (F01), Bailey / N02060ol (Per), X05249 (BC1F1-07-01: F03 ol ol) /3/ Bailey, N12010ol*2 /5/ N15068olLSmT (14 DPT 015, X10001: F1-01-02-S-07-S-03: F08), Bailey*2 / Brantley, N08086olJCT // SPT 07-01, NC-V 11 / GP-NC WS 11",BC1F1-2-3-S-3-S-1: F9,ol ol,21 SPI 125,1161,44,17.4,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,181,X15085,N21041,"N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05044FCSm, N13052olL*2 /3/ N15066olLSmT (14 DPT 014, X10001: F1-01-02-S-07-S-01: F08), Bailey*2 / Brantley, N08086olJCT // SPT 07-01, NC-V 11 / GP-NC WS 11",BC1F1-1-1-S-2-S-1: F9,ol ol,21 SPI 126,1147,33,14.6,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,182,X15085,N21042,"N03079FT*2 / N02059ol (Per), X03155 (ol ol, BC1F1-04-01-S-04-S-01: F09) // N05044FCSm, N13052olL*2 /3/ N15066olLSmT (14 DPT 014, X10001: F1-01-02-S-07-S-01: F08), Bailey*2 / Brantley, N08086olJCT // SPT 07-01, NC-V 11 / GP-NC WS 11",BC1F1-1-1-S-2-S-2: F9,ol ol,21 SPI 127,1044,46,13.8,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,183,X15095,N21043,"N08064olCT // X09025 (F01), N08064olCT / CRSP 702, N14046olT*2 /3/ N14043olLSmT, N08082olJCT // X09019 (F01), N08082olJCT / Florida Fancy",BC1F1-5-1-S-2-S-1: F9,ol ol,21 SPI 128,1188,40,16.4,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,184,X15095,N21044,"N08064olCT // X09025 (F01), N08064olCT / CRSP 702, N14046olT*2 /3/ N14043olLSmT, N08082olJCT // X09019 (F01), N08082olJCT / Florida Fancy",BC1F1-5-1-S-3-S-2: F9,ol ol,21 SPI 129,1032,44,14.4,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,8,,N96076L,N90004 / GP-NC WS 13, ,+ +,21 SPI 9,1116,44,14.2,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,9,,NC 20,"N01015T / N00098ol (Gre), X02083 (F2-01-S-01-S-05: F07) // Sugg",F2-6-S-1-1-1: F9,ol ol,21 SPI 10,1021,41,14,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,9,,NC 20,"N01015T / N00098ol (Gre), X02083 (F2-01-S-01-S-05: F07) // Sugg",F2-6-S-1-1-1: F9,ol ol,21 SPI 10,1050,44,9.8,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,9,,NC 20,"N01015T / N00098ol (Gre), X02083 (F2-01-S-01-S-05: F07) // Sugg",F2-6-S-1-1-1: F9,ol ol,21 SPI 10,1122,41,15.2,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,9,,NC 20,"N01015T / N00098ol (Gre), X02083 (F2-01-S-01-S-05: F07) // Sugg",F2-6-S-1-1-1: F9,ol ol,21 SPI 10,1180,35,14.6,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,9,,NC 20,"N01015T / N00098ol (Gre), X02083 (F2-01-S-01-S-05: F07) // Sugg",F2-6-S-1-1-1: F9,ol ol,21 SPI 10,1209,38,17.4,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,9,,NC 20,"N01015T / N00098ol (Gre), X02083 (F2-01-S-01-S-05: F07) // Sugg",F2-6-S-1-1-1: F9,ol ol,21 SPI 10,1245,33,15.4,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,10,,NC-V 11,NC-V 11,,+ +,21 SPI 11,1075,43,7.8,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,11,,Perry,Perry,,+ +,21 SPI 12,1231,38,15.2,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,12,,PI 497429,PI 497429,,+ +,21 SPI 13,1275,20,7.2,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,13,,PI 576636,PI 576636, ,+ +,21 SPI 14,1162,45,16.6,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,14,,SPT 07-01,NC-V 11 / GP-NC WS 11,,+ +,21 SPI 15,1140,51,13.8,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,15,,SPT 10-12ol,NC 12C / GP-NC WS 13 // SunOleic 97R, ,ol ol,21 SPI 16,1220,30,12.2,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,16,,Sullivan,Sullivan,,ol ol,21 SPI 17,1040,40,11.6,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,16,,Sullivan,Sullivan,,ol ol,21 SPI 17,1086,48,7.8,2,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,16,,Sullivan,Sullivan,,ol ol,21 SPI 17,1141,42,15.2,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,16,,Sullivan,Sullivan,,ol ol,21 SPI 17,1157,41,14.2,4,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,16,,Sullivan,Sullivan,,ol ol,21 SPI 17,1227,44,17,5,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,16,,Sullivan,Sullivan,,ol ol,21 SPI 17,1262,40,16,6,3
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,17,,Tifguard,Tifguard,,+ +,21 SPI 18,1033,38,8.8,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,18,,Walton,Walton,,ol ol,21 SPI 19,1042,48,15.4,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,19,,Wynne,Wynne,,ol ol,21 SPI 20,1030,42,16.2,1,1
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,19,,Wynne,Wynne,,ol ol,21 SPI 20,1124,49,15.2,3,2
+2022,RMT,Test,B5,ATP-Y,Advanced Testing Program - Yield,19,,Wynne,Wynne,,ol ol,21 SPI 20,1258,46,15.2,6,3
